@@ -1,3 +1,4 @@
+![ML Pipeline](https://github.com/RaviTeja-P1/MNIST-CICD/actions/workflows/ml-pipeline.yml/badge.svg)
 # MNIST Classification with CI/CD Pipeline
 
  This project uses GitHub Actions to implement a simple Convolutional Neural Network (CNN) for MNIST digit classification with a complete CI/CD pipeline.
