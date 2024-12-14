@@ -88,7 +88,7 @@ def test(model_path=None):
 if __name__ == '__main__':
     if len(sys.argv) > 2:
         print("Usage: python test_model.py [model_filename]")
-        print("Example: python test_model.py model_20230615_143022.pth")
+        print("Example: python test_model.py model_20240817_162032.pth")
         print("If no model specified, the latest model will be used")
         sys.exit(1)
     
